@@ -4,3 +4,5 @@
 2、声音方面一开始只能外放，需要根据这个项目进行设置后解锁耳机声音：https://github.com/hoaug-tran/ComboJack
 
 3、oc版本更新0.88，mac的版本更新到12.7.4，当前使用未见明显问题
+
+4、开启hidpi：bash -c "$(curl -fsSL https://raw.githubusercontent.com/xzhih/one-key-hidpi/master/hidpi.sh)"
